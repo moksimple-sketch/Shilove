@@ -79,20 +79,20 @@
 
 <div align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/nbbb15092/abc" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20DEPLOY%20ON-HEROKU-8B0000?style=for-the-badge&logo=heroku&logoColor=white&height=60" alt="Deploy to Heroku">
+    <img src="https://img.shields.io/badge/❤️%20AIME%20-MOI-8B0000?style=for-the-badge&logo=heroku&logoColor=white&height=60" alt="Pour toujours">
   </a>
   <br><br>
   <a href="https://railway.app?referralCode=queen-elisa" target="_blank">
-    <img src="https://img.shields.io/badge/⚡%20DEPLOY%20ON-RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=red&height=60" alt="Deploy to Railway">
+    <img src="https://img.shields.io/badge/💍%20EPOUSE%20ON-MOI-000000?style=for-the-badge&logo=railway&logoColor=red&height=60" alt="Commencer l'aventure">
   </a>
   <br><br>
   <a href="https://replit.com/" target="_blank">
-    <img src="https://img.shields.io/badge/💻%20DEPLOY%20ON-REPLIT-FF4500?style=for-the-badge&logo=replit&logoColor=white&height=60" alt="Deploy to Replit">
+    <img src="https://img.shields.io/badge/❤️‍🩹%20AMOUR%20ON-ETERNEL-FF4500?style=for-the-badge&logo=replit&logoColor=white&height=60" alt="Construisons ensemble notre histoire">
   </a>
 </div>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70&desc=©%202025%20ASITHA-MD%20V6&descAlignY=90&descSize=15" width="100%" style="border-radius: 15px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=footer&text=Thank%20YOU!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70&desc=©%202025%20SHILOVE AND LOUBENS%20V6&descAlignY=90&descSize=15" width="100%" style="border-radius: 15px;"/>
 
 </div>
