@@ -67,8 +67,8 @@
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/color/64/artist-palette.png" width="50"><br>
-      <b>Stylish UI</b><br>
-      <font size="2">Red & Dark Theme</font>
+      <b>Rouge et Theme</b><br>
+      <font size="2">La Couleur de notre Amour<font>
     </td>
   </tr>
 </table>
