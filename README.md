@@ -17,10 +17,10 @@
 <br>
 
 <p align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Version-V6.0.0-FF0000?style=for-the-badge&logo=git&logoColor=white&labelColor=8B0000">
-  <img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=red&labelColor=333333">
-  <img src="https://img.shields.io/badge/Node.js-20+-FF0000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8B0000">
-  <img src="https://img.shields.io/badge/Status-ACTIVE-FFD700?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=000000">
+  <img src="https://img.shields.io/badge/Love Level-100% REAL-FF0000?style=for-the-badge&logo=git&logoColor=white&labelColor=8B0000">
+  <img src="https://img.shields.io/badge/HEART-TAKEN ❤️-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=red&labelColor=333333">
+  <img src="https://img.shields.io/badge/ACTIVE-LOVE❤️-FF0000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8B0000">
+  <img src="https://img.shields.io/badge/Status-IN LOVE 💕-FFD700?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=000000">
 </p>
 
 <p align="center">
