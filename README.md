@@ -11,7 +11,7 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=FF0000,FFFFFF,FF4500&center=true&vCenter=true&width=900&height=70&lines=⚡+FAST+FAST+PERFORMANCE;🔥+RED+EDITION+V6;🛡️+MILITARY+GRADE+SECURITY;✨+THE+NEXT-GEN+WHATSAPP+BOT&gradient=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=FF0000,FFFFFF,FF4500&center=true&vCenter=true&width=900&height=70&lines=❤️‍🩹+LOUBENS+FAST+PERFORMANCE;"Typing SVG" />
 </a>
 
 <br>
