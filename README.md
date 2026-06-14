@@ -51,14 +51,14 @@
 
 <hr style="border-color: #FF0000; margin: 30px 0; width: 80%; opacity: 0.5;">
 
-<h2 align="center" style="color: #FF0000;">⚡ Premium Features ⚡</h2>
+<h2 align="center" style="color: #FF0000;">❤️ Pourquoi Jet'aime ❤️</h2>
 
 <table align="center" width="90%">
   <tr>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-speed-web-development-flaticons-lineal-color-flat-icons.png" width="50"><br>
-      <b>Lightning Fast</b><br>
-      <font size="2">Ultra-fast responses</font>
+      <b>Toujours présent><br>
+      <font size="2">à tes côtés chaques jours </font>
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/64/security-checked.png" width="50"><br>
