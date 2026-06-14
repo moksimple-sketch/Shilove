@@ -62,8 +62,8 @@
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/64/security-checked.png" width="50"><br>
-      <b>Secure</b><br>
-      <font size="2">End-to-end Encrypted</font>
+      <b>Amour Protègé</b><br>
+      <font size="2">Gardé au fond du cœur</font>
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/color/64/artist-palette.png" width="50"><br>
