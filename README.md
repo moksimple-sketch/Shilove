@@ -38,9 +38,9 @@
 <hr style="border-color: #FF0000; margin: 30px 0; width: 80%; opacity: 0.5;">
 
 <div align="center" style="margin: 30px 0;">
-  <h3 style="color: #FF0000;">🍴 Fork The Repository</h3>
+  <h3 style="color: #FF0000;">🍴 Entrer dans mon Cœur</h3>
   <a href="https://github.com/nbbb15092/abc/fork">
-    <img src="https://img.shields.io/badge/FORK%20REPO-NOW-FF0000?style=for-the-badge&logo=github&logoColor=white&height=55" alt="Fork Repo">
+    <img src="https://img.shields.io/badge/LOVE%20REPO-NOW-FF0000?style=for-the-badge&logo=github&logoColor=white&height=55" alt="Fork Repo">
   </a>
   <br><br>
   <h3 style="color: #FF0000;">🔑 Get The Session ID</h3>
