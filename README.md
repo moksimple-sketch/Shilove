@@ -44,8 +44,8 @@
   </a>
   <br><br>
   <h3 style="color: #FF0000;">🔑 Gagner Mon Cœur ❤️</h3>
-  <a href="https://asitha.top/" target="_blank">
-    <img src="https://wa.me/50935927903/❤️%20LOVE-CLICK%20HERE-000000?style=for-the-badge&logo=whatsapp&logoColor=red&height=55" alt="Get Session">
+  <a href="https://wa.me/50935927903/" target="_blank">
+    <img src="https://img.shields.io/badge//❤️%20LOVE-CLICK%20HERE-000000?style=for-the-badge&logo=whatsapp&logoColor=red&height=55" alt="Get Session">
   </a>
 </div>
 
